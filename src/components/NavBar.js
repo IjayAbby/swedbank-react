@@ -18,14 +18,14 @@ function NavBar() {
             </nav>
             <nav>
                 <ul className='border-top border-bottom d-flex justify-content-between'>
-                    <li className='border-start border-end px-5 py-2'><IoHome /></li>
-                    <li className='border-end pe-4 py-2 fw-bold fs-7'>Everyday banking</li>
-                    <li className=' border-end pe-4 py-2 fw-bold fs-7'>Cards</li>
+                    <li className='border-start border-end px-5 py-2 brown-color'><IoHome /></li>
+                    <li className='border-end pe-4 py-2 fw-bold fs-7 brown-color'>Everyday banking</li>
+                    <li className=' border-end pe-4 py-2 fw-bold fs-7 brown-color'>Cards</li>
                     <li className=' border-end pe-4 py-2 fw-bold fs-7'>Loan,leasing</li>
-                    <li className=' border-end pe-4 py-2 fw-bold fs-7'>Savings, Investments</li>
-                    <li className=' border-end pe-4 py-2 fw-bold fs-7'>Pension</li>
-                    <li className=' border-end pe-4 py-2 fw-bold fs-7'>Insurance</li>
-                    <li className='border-end pe-4 py-2'><FaSearch /></li>
+                    <li className=' border-end pe-4 py-2 fw-bold fs-7 brown-color'>Savings, Investments</li>
+                    <li className=' border-end pe-4 py-2 fw-bold fs-7 brown-color'>Pension</li>
+                    <li className=' border-end pe-4 py-2 fw-bold fs-7 brown-color'>Insurance</li>
+                    <li className='border-end pe-4 py-2 brown-color'><FaSearch /></li>
                 </ul>    
                 
             </nav>

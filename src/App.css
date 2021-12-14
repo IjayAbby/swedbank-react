@@ -6,11 +6,31 @@
   box-sizing: border-box;
 }
 
+a {
+  text-decoration: none;
+}
+
 ul {
   margin-bottom: 0px;
 }
 .primary-color {
   color: #EE7023;
+}
+
+.brown-color {
+  color: #512B2B;
+}
+
+.button {
+  border: none;
+  color: white;
+  padding: 10px 58px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  transition-duration: 0.4s;
+  cursor: pointer;
 }
 
 .fs-8 {
@@ -57,4 +77,39 @@ ul.a li {
   font-size: 12px;
 }
 
+.login {
+  padding: 20px 40px;
+  background-color: #FBF2EA;
+}
+
+.login-2 {
+  background-color: white;
+}
+
+.login-3 {
+  background-color: #F4FBFD;
+}
+
+.log-title {
+  font-weight: 100px;
+}
+.button1 {
+  background-color: #EBE7E2; 
+  color: #512B2B; 
+  border: 1px solid white;
+}
+
+.button1:hover {
+  background-color: #FDC129;
+  color: black;
+}
+
+.login-input {
+  padding: 4px;
+  margin: 30px;
+}
+
+.enter {
+  background-color: #F3AA8B;
+}
 
